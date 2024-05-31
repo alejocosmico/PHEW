@@ -3,7 +3,7 @@
 Python tools to calculate the equivalent width, line depth, and full width at half maximum of a line for a given spectrum using  [PySpecKit](https://github.com/pyspeckit/pyspeckit). All uncertainties on measurements are estimated via Monte Carlo iterations.  
 
 ### Files
-1. EqW.py - calculates equivalent width (EqW) and estimates uncertainty via Monte Carlo iterations
+1. EW.py - calculates equivalent width (EqW) and estimates uncertainty via Monte Carlo iterations
 2. FWHM.py - calculates full width at half maximum (FWHM) and estimates uncertainty via Monte Carlo iterations 
 3. linedepth.py - calculates line depth and estimates uncertainty via Monte Carlo iterations
 
